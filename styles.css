@@ -28,9 +28,7 @@ a {
     width: max-content;
 }
 
-#description {
-    width: auto;
-}
+
 
 #header {
     font-size: 400%;
@@ -48,6 +46,10 @@ a {
     margin-bottom: 1%;
     width: 100%;
     color: #333333;
+}
+
+#description {
+    width: auto;
 }
 
 #icons {
