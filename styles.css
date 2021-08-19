@@ -22,7 +22,6 @@ a {
     transform: translate(-50%, -50%);
     min-width: 50px;
     max-width: fit-content;
-    /* width: min-content; */
 }
 
 #name {
@@ -41,7 +40,7 @@ a {
     color: #333333;
 }
 
-#desc {
+.desc {
     font-size: 250%;
     font-family: 'Courier New', Courier, monospace;
     font-weight:normal;
