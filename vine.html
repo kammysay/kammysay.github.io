@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 
 <html>
-    <header>
+    <head>
+        <title>👋 Sam Kuchek</title>
         <link rel="stylesheet" href="styles.css"/>
         <script src="quote_fetch.js"></script>
-    </header>
+        <meta charset="UTF-8">
+    </head>
 
     <body>
         <div id="main">
-            <p id="header" align="center">Uh oh...</p>
-            <p id="desc" align="center">Vine hasn't existed since 2016.</p>
-            <p id="desc" align="center">I should really take that link off of this site...</p>
+            <div id="name">
+                <p id="header" align="center">Uh oh...</p>
+                <p id="desc" align="center">Vine hasn't existed since 2016.</p>
+                <p id="desc" align="center">I should really take that link off of this site...</p>
+            </div>
 
             <p align="center">
                 <a href="index.html">
@@ -19,8 +23,13 @@
             </p>
         </div>
 
+        <!-- The quote block attached to the bottom of the screen -->
         <div id="quote_block">
+            <!-- Initialized with a quote already inside in case JS doesn't run -->
             <p id="quote_text" align="center">
+            "Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. 
+            In computer science, you give the computer the rules, and it creates the world."
+            - Alan Kay
             </p>
         </div>
 

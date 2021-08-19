@@ -20,7 +20,15 @@ a {
     top: 40%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    width:max-content
+    width: min-content;
+}
+
+#name {
+    width: max-content;
+}
+
+#description {
+    width :auto;
 }
 
 #header {
