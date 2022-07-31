@@ -1,6 +1,0 @@
-"Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world." - Alan Kay
-"To me, mathematics, computer science, and the arts are insanely related. They're all creative expressions." - Sebastian Thrun
-"We're losing track of the vastness of the potential for computer science. We really have to revive the beautiful intellectual joy of it, as opposed to the business potential." - Jaron Lanier
-"Computer science is not just for smart 'nerds' in hoodies coding in basements. Coding is extremely creative and is an integral part of almost every industry." - Reshma Saujani
-"If people never did silly things, nothing intelligent would ever get done." - Ludwig Wittgenstein
-"Simplicity, carried to the extreme, becomes elegance." - Jon Franklin
